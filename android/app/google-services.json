@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "582928148636",
+    "project_id": "flash-chat-47347",
+    "storage_bucket": "flash-chat-47347.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:582928148636:android:998e4efe0d552fc8c5e559",
+        "android_client_info": {
+          "package_name": "co.abhigoel.flash_chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "582928148636-5qdtifrbnpp794tn08ecu3av1rc3512u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDUKArXbivw2PrucadrABRDhdM1VXKLADE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "582928148636-5qdtifrbnpp794tn08ecu3av1rc3512u.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
